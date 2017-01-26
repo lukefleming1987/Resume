@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <title>My Resume</title>
+    </head>
+    <body>
+        <header>
+            <h1>Luke Fleming</h1>
+            <h3>lukefleming1987@gmail.com</h3>
+        </header>
+        <section>
+            <h1>Skills</h1>
+            <div>
+                <h3>Enterprise Setup and Deployment</h3>
+                <p>Able to work individual and with teams in order to troubleshoot, setup and maintain enterprise and home level environments</p>
+            </div>
+        </section>
+        <section>
+            <h1>Work Experience</h1>
+            <div>
+                <h3>Apple</h3>
+                    <ul>
+                        <li>Identify client need and begin to map appropriate hardware solutions</li>
+                        <li>Correctly deploy hardware solutions and integrate into existing client environment</li>
+                        <li>Maintain client environment as necessary</li>
+                    </ul>
+                </div>
+            </div>        
+        </section>
+        <footer>
+            <p></p>
+        </footer>
+    </body>
+</html>
